@@ -1,0 +1,327 @@
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FCapNhatTienDo.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FKiemTraTienDo.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinCaNhan.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDuyet.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatTask.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+D:\Workspace\Win\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanChiTietGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FCapNhatTienDo.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FKiemTraTienDo.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinCaNhan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDuyet.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanChiTietGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan(ThemXoaLuanVanUC)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FCapNhatTienDo.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FKiemTraTienDo.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinCaNhan.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDuyet.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanChiTietGV.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+D:\Workspace\Win\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinCaNhan.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanChiTietGV.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+D:\Workspace\Win\QuanLyLuanVan(Tuan10)\QuanLyLuanVan(Hoàn thành phân quyền và cập nhật thông tin)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanChiTietGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan1\QuanLyLuanVan1\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItCapNhatTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItChiTiet.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemThanhVien.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItNhom.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThanhVien.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItAnh.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCChat.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItChat.resources
+\\Mac\Home\Downloads\QuanLyLuanVan(vieet)\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FLuanVanCuaToi.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FLuanVanCuaToi.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItAnh.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItChat.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemThanhVien.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCChat.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThanhVien.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+\\Mac\Home\Downloads\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FLuanVanCuaToi.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItAnh.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItChat.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItChiTiet.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDeXuatLuanVan.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinGV.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinSV.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemThanhVien.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItNhom.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCChat.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThanhVien.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+D:\QuanLyLuanVan2\QuanLyLuanVan\QuanLyLuanVan\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb
+D:\QuanLyLuanVan_2\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe.config
+D:\QuanLyLuanVan_2\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.exe
+D:\QuanLyLuanVan_2\QuanLyLuanVan\bin\Debug\QuanLyLuanVan.pdb
+D:\QuanLyLuanVan_2\QuanLyLuanVan\bin\Debug\Guna.UI2.dll
+D:\QuanLyLuanVan_2\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.dll
+D:\QuanLyLuanVan_2\QuanLyLuanVan\bin\Debug\System.Data.SqlClient.xml
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.AssemblyReference.cache
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FLuanVanCuaToi.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangNhap.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FDangKyLuanVan.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FMain.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyLuanVan.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FQuanLyTask.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongBao.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongKeKetQua.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItAnh.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItChat.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItDangKy.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItTaoTask.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemLuanVan.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThongBao.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinGV.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.FThongTinSV.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.ItThemThanhVien.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.Properties.Resources.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCChat.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThanhVien.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanGV.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCTask.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCThongBao.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.UCLuanVanSV.resources
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.GenerateResource.cache
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CoreCompileInputs.cache
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.csproj.CopyComplete
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.exe
+D:\QuanLyLuanVan_2\QuanLyLuanVan\obj\Debug\QuanLyLuanVan.pdb

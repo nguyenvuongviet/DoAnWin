@@ -1,0 +1,147 @@
+Luận văn
+
+1
+Ứng dụng trí tuệ nhân tạo trong phân tích dữ liệu
+Khoa học máy tính
+Nghiên cứu và xây dựng hệ thống ứng dụng trí tuệ nhân tạo để phân tích dữ liệu lớn
+Machine Learning, Data Mining
+Kiến thức về Machine Learning, kỹ năng lập trình tốt
+Phân tích và xử lý dữ liệu lớn, dự đoán kết quả
+Rất tốt
+2:
+Phát triển ứng dụng di động đa nền tảng
+Công nghệ thông tin
+Xây dựng ứng dụng di động có thể chạy trên cả iOS và Android
+React Native, Flutter
+Kiến thức về lập trình ứng dụng di động
+Phát triển ứng dụng di động đa nền tảng
+Xuất sắc
+3:
+Tối ưu hóa hiệu suất hệ thống mạng
+Mạng máy tính
+Nghiên cứu và áp dụng các kỹ thuật tối ưu hóa hiệu suất trong mạng máy tính
+TCP/IP, SDN
+Hiểu biết về các giao thức mạng và SDN
+Tối ưu hóa hiệu suất hệ thống mạng
+Khá tốt
+4:
+Phân tích và dự đoán chuỗi thời gian
+Khoa học dữ liệu
+Nghiên cứu và phát triển mô hình dự đoán chuỗi thời gian cho các ứng dụng như dự báo thời tiết, giao thông
+Time Series Analysis, Machine Learning
+Kiến thức về xử lý dữ liệu chuỗi thời gian, lập trình
+Phân tích chuỗi thời gian, dự đoán kết quả
+Rất tốt
+5:
+Xây dựng hệ thống quản lý kho hàng thông minh
+Trí tuệ nhân tạo
+Xây dựng hệ thống sử dụng trí tuệ nhân tạo để quản lý và tối ưu hóa việc lưu trữ và điều phối hàng hóa trong kho hàng
+Deep Learning, Computer Vision
+Kiến thức về Deep Learning, xử lý ảnh
+Phân loại và theo dõi hàng hóa, tối ưu hóa quy trình
+Xuất sắc
+6:
+Phân tích tương tác người-máy trong ứng dụng web
+Trải nghiệm người dùng
+Nghiên cứu về cách tương tác giữa người dùng và ứng dụng web, tối ưu hóa trải nghiệm người dùng
+User Experience Design, Web Development
+Hiểu biết về nguyên lý thiết kế trải nghiệm người dùng, kỹ năng lập trình web
+Tối ưu hóa tương tác người-máy, cải thiện trải nghiệm người dùng
+Khá tốt
+7.
+Xử lý ngôn ngữ tự nhiên trong ứng dụng trí tuệ nhân tạo
+Trí tuệ nhân tạo
+Nghiên cứu và phát triển các thuật toán xử lý ngôn ngữ tự nhiên để tích hợp vào các ứng dụng trí tuệ nhân tạo như trợ lý ảo
+Natural Language Processing, Machine Learning
+Kiến thức về xử lý ngôn ngữ tự nhiên, lập trình
+Hiểu và xử lý ngôn ngữ tự nhiên, tương tác với người dùng
+Rất tốt
+8. 
+Phát triển ứng dụng blockchain cho quản lý tài nguyên
+Blockchain
+Phát triển ứng dụng sử dụng công nghệ blockchain để quản lý và theo dõi tài nguyên như đất đai, tài sản
+Blockchain Development, Smart Contracts
+Kiến thức về công nghệ blockchain, lập trình
+Quản lý và theo dõi tài nguyên, đảm bảo tính minh bạch và an toàn
+Xuất sắc
+
+9. 
+Tạo ra hệ thống dự đoán nhu cầu khách hàng cho doanh nghiệp
+Kinh doanh và phân tích dữ liệu
+Nghiên cứu và phát triển một hệ thống dự đoán nhu cầu của khách hàng dựa trên dữ liệu lịch sử mua hàng
+Predictive Analytics, Data Mining
+Hiểu biết về phân tích dữ liệu và dự đoán, kinh nghiệm trong lĩnh vực kinh doanh
+Dự đoán nhu cầu khách hàng, tối ưu hóa quy trình kinh doanh
+Rất tốt
+
+
+Danh sách thông báo
+1.
+Lịch hẹn gặp nhóm 
+Đề nghị các bạn đặt lịch hẹn gặp nhóm đều đặn để thảo luận về tiến độ công việc và giải quyết bất kỳ vấn đề nào phát sinh trong quá trình nghiên cứu và viết luận văn.
+2.
+Tiến độ công việc
+Vui lòng kiểm tra lại tiến độ công việc và đảm bảo rằng mọi thành viên trong nhóm đều đang làm việc hiệu quả để hoàn thành các phần của luận văn theo kế hoạch.
+3.
+Phân chia công việc
+Đề nghị các bạn xác định rõ ràng vai trò và trách nhiệm của mỗi thành viên trong nhóm để đảm bảo công việc được phân chia công bằng và mọi người đóng góp đều đặn.
+4.
+Nộp báo cáo tiến độ
+Xin nhắc nhở rằng báo cáo tiến độ phải được nộp đúng hạn theo yêu cầu của giáo viên hướng dẫn hoặc phản biện viên.
+5.
+Tài liệu tham khảo và trích dẫn
+Hãy chắc chắn rằng mọi tài liệu tham khảo và trích dẫn được sử dụng trong luận văn được trích dẫn đúng cách theo quy định của trường và chú ý đến việc tránh vi phạm bản quyền.
+6.
+Hỗ trợ từ giáo viên hướng dẫn
+Đừng ngần ngại hỏi và xin ý kiến từ giáo viên hướng dẫn của bạn nếu gặp bất kỳ vấn đề nào trong quá trình làm luận văn.
+7.
+Lịch hẹn phản biện
+Hãy chắc chắn rằng các bạn sẵn sàng cho các cuộc họp phản biện luận văn theo lịch đã được sắp xếp.
+
+Danh sách Task 
+1.
+Xác định đề tài nghiên cứu
+Tìm hiểu và chọn đề tài nghiên cứu phù hợp với lĩnh vực quan tâm và khả năng nghiên cứu của bạn.
+Xác định câu hỏi nghiên cứu cụ thể mà luận văn sẽ trả lời.
+
+2.
+Lập kế hoạch nghiên cứu
+Xác định phạm vi nghiên cứu và mục tiêu cụ thể của luận văn.
+Lập kế hoạch làm việc và xác định các giai đoạn quan trọng trong quá trình nghiên cứu.
+
+3.
+Tìm hiểu về cơ sở lý thuyết
+Tiến hành đánh giá và nghiên cứu các tài liệu, nghiên cứu, và lý thuyết liên quan đến đề tài của bạn.
+Xác định và phân tích các lý thuyết, mô hình, và khái niệm quan trọng.
+
+4.
+Thu thập dữ liệu
+Phát triển kế hoạch thu thập dữ liệu dựa trên mục tiêu và phương pháp nghiên cứu.
+Thu thập dữ liệu thông qua các phương tiện như cuộc khảo sát, phỏng vấn, quan sát, hoặc phân tích tài liệu.
+
+5.
+Phân tích dữ liệu
+Tiến hành phân tích dữ liệu theo phương pháp thích hợp như phân tích số liệu thống kê, phân tích nội dung, hoặc phân tích tương tác.
+Hiểu và diễn giải kết quả phân tích một cách chính xác và logic.
+
+
+6.
+Viết bản thảo luận văn
+Tổ chức và viết bản thảo luận văn theo cấu trúc đã xác định trước.
+Chú ý đến việc trình bày logic, sự liên kết giữa các phần, và tuân thủ quy định về trích dẫn và tham khảo.
+
+7.
+Kiểm tra và chỉnh sửa
+Kiểm tra lại toàn bộ nội dung để sửa chữa lỗi chính tả, ngữ pháp, và cấu trúc câu.
+Chỉnh sửa và điều chỉnh nội dung để cải thiện sự logic và sự trình bày.
+
+
+8.
+Thực hiện bảo vệ luận văn
+Chuẩn bị cho buổi bảo vệ luận văn bằng cách xây dựng bài thuyết trình và chuẩn bị câu hỏi trả lời của ổn định.
+
+9.
+Hoàn thiện và nộp luận văn
+Hoàn thiện bản in và điều chỉnh luận văn dựa trên phản hồi từ buổi bảo vệ (nếu có).
+Nộp bản cuối cùng của luận văn theo yêu cầu của trường và giáo viên hướng dẫn.
+
